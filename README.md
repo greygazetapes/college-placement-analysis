@@ -26,5 +26,5 @@
 ![диаграмма по уровню академической активности](visuals/college_placement_visualization-4.png)
 ![диаграмма по опыту стажировки](visuals/college_placement_visualization-5.png)
 ![диаграмма по внеклассной оценке](visuals/college_placement_visualization-6.png)
-!(диаграмма по навыкам коммуникации)(visuals/college_placement_visualization-7.png)
-!(диаграмма по количеству проектов)[visuals/college_placement_visualization-8.png]
+![диаграмма по навыкам коммуникации](visuals/college_placement_visualization-7.png)
+![диаграмма по количеству проектов](visuals/college_placement_visualization-8.png)
